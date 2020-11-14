@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 <!-- MEDIUM:END -->
 
 ---
-### Githuib
+### GitHub
 
 
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Labib123&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
