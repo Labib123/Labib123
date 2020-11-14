@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently pursuing a bachelor's degree in IT at HELP University
-- 🌱 I'm currently the AWS Student Ambassador, and the Developer Student Club Lead at HELP   University
-- 🌱 I’m currently learning MERN Stack, Data Structure and Algorithms and Cloud Computing
-- 🤔 Goals: Contribute to open source Projects
+- 🌱 I'm currently the AWS Student Ambassador, and the Developer Student Club Lead at HELP University
+- 🌱 I’m currently learning MEAN Stack, Data Structure and Algorithms and Cloud Computing
+- 🤔 Goals: Contribute to open source projects
 - 💬 Ask me about any questions related to Cloud Computing (AWS and GCP)
 
 
