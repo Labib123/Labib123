@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing a bachelor's degree in IT at HELP University
 - 🌱 I'm currently the AWS Student Ambassador, and the Developer Student Club Lead at HELP   University
 - 🌱 I’m currently learning MERN Stack, Data Structure and Algorithms and Cloud Computing
-- 🤔 GOALS: Contribute to open source Projects
-- 💬 Ask me about any Questions Related to Cloud Computing (AWS and GCP)
+- 🤔 Goals: Contribute to open source Projects
+- 💬 Ask me about any questions related to Cloud Computing (AWS and GCP)
 
 
 ### Around the web :
