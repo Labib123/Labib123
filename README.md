@@ -2,7 +2,6 @@
 
 ## I'm a Software Developer, and Second Year IT Student!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing a bachelor's degree in IT at HELP University
 - 🌱 I'm currently the AWS Student Ambassador, and the Developer Student Club Lead at HELP   University
