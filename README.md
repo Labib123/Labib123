@@ -1,9 +1,9 @@
 ### Hi there, I'm Labib Mansour👋
 
-## I'm a Software Developer, and Second Year IT Student!
+## I'm a Software Developer, and Second Year CS Student!
 
 
-- 🔭 I’m currently pursuing a bachelor's degree in IT at HELP University
+- 🔭 I’m currently pursuing a bachelor's degree in CS at HELP University
 - 🌱 I'm currently the AWS Student Ambassador, and the Developer Student Club Lead at HELP University
 - 🌱 I’m currently learning MEAN Stack, Data Structure and Algorithms and Cloud Computing
 - 🤔 Goals: Contribute to open source projects
