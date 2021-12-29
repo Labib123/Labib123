@@ -1,6 +1,6 @@
 ### Hi there, I'm Labib Mansour👋
 
-## I'm a Data Engineer, and a Final Year CS Student
+## I'm a Data Engineer
 
 
 - 🔭 I’m currently pursuing a bachelor's degree in CS at HELP University
