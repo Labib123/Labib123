@@ -1,10 +1,9 @@
 ### Hi there, I'm Labib Mansour👋
 
-## Associate Data Engineer
+## Data Engineer
 
-## Final Year CS Student At HELP University (Malaysia) 
-
-## Software Development Intern At Kinesso <3 
+## Prev CS Student At HELP University (Malaysia) 
+ 
 
 
 ### Around the web :
@@ -26,6 +25,16 @@
 - [This is how I turned my Raspberry Pi into a Web Server.](https://medium.com/theumhack/this-is-how-i-turned-my-raspberry-pi-into-a-web-server-a0f02e7bc3af)
 
 <!-- MEDIUM:END -->
+
+
+<!-- MEDIUM:START -->
+
+- [This is how I turned my Raspberry Pi into a Web Server.]([https://medium.com/theumhack/this-is-how-i-turned-my-raspberry-pi-into-a-web-server-a0f02e7bc3af](https://medium.com/@labibfunctions/building-a-date-pipeline-for-instagram-comments-part-1-3c7cd66ef823))
+
+<!-- MEDIUM:END -->
+
+
+
 
 ---
 ### GitHub
